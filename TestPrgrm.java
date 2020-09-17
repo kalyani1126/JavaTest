@@ -18,6 +18,5 @@ public class TestPrgrm
         A a=new A();
         C c=new C();
         a.b.c=c.b.a;
-        
     }
 }
